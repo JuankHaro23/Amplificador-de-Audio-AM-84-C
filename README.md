@@ -1,6 +1,7 @@
 # Amplificador-de-Audio-AM-84-C
 Este proyecto permitió que los intercomunicadores, esenciales para la coordinación interna entre la tripulación de los tanques, volvieran a un estado completamente activo y funcional, utilizando materiales y accesorios comerciales de facil acceso.
 PRODUCTO: CIRCUITO AMPLIFICADOR DE AUDIO AM-84-C
+
 Características	Limites	Unidades
 			
 Rango de Temperatura 	de -55 a 120	grados centígrados	
@@ -27,6 +28,7 @@ Detalles
 
 Características físicas y mecánicas
 	
+[![IMPLEMENTACION-DE-AMPLIFICADOR.png](https://i.postimg.cc/4xq6bR3F/IMPLEMENTACION-DE-AMPLIFICADOR.png)](https://postimg.cc/cv7t0jwQ)
 
 Circuito electrónico impreso en una baquelita de cobre, compuesto por 16 capas conductoras separadas por capas de material aislante laminadas entre sí.
 
@@ -37,6 +39,7 @@ Las dimensiones son:
 
 Peso: 164 gramos
 Color: variado
+
 
 
  
