@@ -27,8 +27,10 @@ Detalles
 	
 
 Características físicas y mecánicas
-	
-[![IMPLEMENTACION-DE-AMPLIFICADOR.png](https://i.postimg.cc/4xq6bR3F/IMPLEMENTACION-DE-AMPLIFICADOR.png)](https://postimg.cc/cv7t0jwQ)
+
+<p align="center">
+  <img src="https://i.postimg.cc/4xq6bR3F/IMPLEMENTACION-DE-AMPLIFICADOR.png" alt="IMPLEMENTACION-DE-AMPLIFICADOR" />
+</p>
 
 Circuito electrónico impreso en una baquelita de cobre, compuesto por 16 capas conductoras separadas por capas de material aislante laminadas entre sí.
 
